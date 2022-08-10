@@ -185,7 +185,7 @@
       "authorName": "Vert.x",
       "gitHubRepoPath": "vert-x3/vertx-auth",
       "repoUrl": "https://github.com/vert-x3/vertx-auth",
-      "installCommandHtml": "maven: io.vertx / vertx-auth-jwt / 3.5.1"
+      "installCommandHtml": "maven: io.vertx / vertx-auth-jwt / 3.5.2"
     }
   ]
 }
